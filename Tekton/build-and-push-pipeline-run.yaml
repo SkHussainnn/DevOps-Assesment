@@ -12,16 +12,16 @@ spec:
         type: git
         params:
           - name: url
-            value: "https://github.com/YashPimple/Ruby_on_rails.git"
+            value: "https://github.com/SkHussainnn/Budget-app.git"
   params:
     - name: gitrepo
       value:
-        url: "https://github.com/YashPimple/Ruby_on_rails.git"
+        url: "https://github.com/SkHussainnn/Budget-app.git"
     - name: context-dir
       value: "."
     - name: dockerfile
       value: "./Dockerfile"
     - name: docker-image
-      value: "https://hub.docker.com/r/yashpimple22/railsapp:latest"
+      value: "skhussain786/railsapp:1.0"
   secrets:
     - name: regcred

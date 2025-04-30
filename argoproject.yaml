@@ -10,7 +10,7 @@ spec:
     server: https://kubernetes.default.svc 
   project: default
   source:
-    repoURL: 'https://github.com/YashPimple/Ruby_on_rails.git'  
+    repoURL: 'https://github.com/SkHussainnn/Budget-app.git'  
     path: "Manifests"  
     targetRevision: HEAD 
   syncPolicy:

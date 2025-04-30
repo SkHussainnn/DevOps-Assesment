@@ -8,4 +8,4 @@ spec:
   params:
     - name: gitrepo
       value:
-        url: "https://github.com/YashPimple/Ruby_on_rails.git"
+        url: "https://github.com/SkHussainnn/Budget-app.git"
